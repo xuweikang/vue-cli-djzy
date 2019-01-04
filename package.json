@@ -1,5 +1,5 @@
 {
-  "name": "djjk-vue-cli",
+  "name": "vue-cli-djzy",
   "bin": {
     "create-vue-app-djzy": "bin/create-vueapp-djzy"
   },
