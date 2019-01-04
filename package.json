@@ -1,7 +1,7 @@
 {
   "name": "djjk-vue-cli",
   "bin": {
-    "create-vue-app-djzy": "bin/create-vue-app-djzy"
+    "create-vue-app-djzy": "bin/create-vueapp-djzy"
   },
   "version": "1.0.0",
   "description": "基于vue的脚手架",
