@@ -1,4 +1,4 @@
-# vue-cli-djzy
+# vuecli-djzy
 
 >
 
