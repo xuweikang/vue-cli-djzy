@@ -6,10 +6,10 @@
 
 ``` bash
 # install npm 
-npm i vue-cli-djzy -g
+npm i vuecli-djzy -g
 
 # run generator
-create-vue-app-djzy init   or    create-vue-app-djzy create
+create-vueapp-djzy init   or    create-vueapp-djzy create
 
 
 ```
