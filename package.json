@@ -3,14 +3,25 @@
   "bin": {
     "create-vue-app-djzy": "bin/create-vueapp-djzy"
   },
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "基于vue的脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuweikang/vue-cli-djzy.git"
+  },
   "author": "xwk",
   "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "child_process": "^1.0.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.19.0"
+  },
   "devDependencies": {
     "chalk": "^2.4.1",
     "child_process": "^1.0.2",
