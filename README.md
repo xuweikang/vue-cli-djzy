@@ -9,7 +9,7 @@
 npm install vue-cli-djzy -g
 
 # run generator
-create-vue-app-djzy init   or    create-vue-app-djzy create
+create-vueapp-djzy init   or    create-vueapp-djzy create
 
 
 ```
